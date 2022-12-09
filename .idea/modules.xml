@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/M01/M01.iml" filepath="$PROJECT_DIR$/M01/M01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M02/M02.iml" filepath="$PROJECT_DIR$/M02/M02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PTA/PTA.iml" filepath="$PROJECT_DIR$/PTA/PTA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PTA-Animal接口/PTA-Animal接口.iml" filepath="$PROJECT_DIR$/PTA-Animal接口/PTA-Animal接口.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PTA-List的使用/PTA-List的使用.iml" filepath="$PROJECT_DIR$/PTA-List的使用/PTA-List的使用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PTA-接口/PTA-接口.iml" filepath="$PROJECT_DIR$/PTA-接口/PTA-接口.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PTA05集合-List中指定元素的删除/PTA05集合-List中指定元素的删除.iml" filepath="$PROJECT_DIR$/PTA05集合-List中指定元素的删除/PTA05集合-List中指定元素的删除.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PTA07多线程-互斥访问/PTA07多线程-互斥访问.iml" filepath="$PROJECT_DIR$/PTA07多线程-互斥访问/PTA07多线程-互斥访问.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PTA07多线程-同步访问/PTA07多线程-同步访问.iml" filepath="$PROJECT_DIR$/PTA07多线程-同步访问/PTA07多线程-同步访问.iml" />
+      <module fileurl="file://$PROJECT_DIR$/停车场收费系统/停车场收费系统.iml" filepath="$PROJECT_DIR$/停车场收费系统/停车场收费系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程/多线程.iml" filepath="$PROJECT_DIR$/多线程/多线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/期末/期末.iml" filepath="$PROJECT_DIR$/期末/期末.iml" />
+      <module fileurl="file://$PROJECT_DIR$/核酸检测/核酸检测.iml" filepath="$PROJECT_DIR$/核酸检测/核酸检测.iml" />
+    </modules>
+  </component>
+</project>
